@@ -1,0 +1,2 @@
+# DoorHandler
+This project presents an electronic doorbell handling and extension system capable of monitoring almost any type of doorbell. The system utilizes a light sensor that periodically checks the door phone to determine whether the signal is active. Upon detection, a transmission pulse is generated and sent to a receiver module, which can be located anywhere within the household. The receiver is designed to provide homeowners with both visual and/or auditory notifications.
